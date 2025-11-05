@@ -1,2 +1,2 @@
-## p
-![](MyIstri)
+my apa, my kisah
+<!-- [](MyIstri)
